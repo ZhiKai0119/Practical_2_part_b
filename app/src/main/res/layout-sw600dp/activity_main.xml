@@ -24,7 +24,7 @@
 
     <Button
         android:id="@+id/buttom_toast"
-        android:layout_width="473dp"
+        android:layout_width="298dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
@@ -38,7 +38,7 @@
 
     <Button
         android:id="@+id/button_count"
-        android:layout_width="474dp"
+        android:layout_width="299dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:background="@color/colorPrimary"
